@@ -25,7 +25,7 @@ Il programma di insegnamento nei diversi ordini scolastici è definito nell'alle
 ### Art. 4
 #### *(Istituzione della graduatoria)*
 
-È istituita la graduatoria per l'insegnamento di Scienze e Tecnologie Informatiche nella Scuola Secondaria Superiore che integra le graduatorie stabilite dal decreto (2021) come stabilito nell'allegato B della presente legge.
+È istituita la graduatoria per l'insegnamento di Scienze e Tecnologie Informatiche nella Scuola Secondaria Superiore che integra le graduatorie stabilite dal Decreto Delegato 23 giugno 2021 n.112 come stabilito nell'allegato B della presente legge.
 
 ### Art. 5
 #### *(Approvvigionamento insegnanti nel Centro di Formazione Professionale per l'insegnamento Laboratorio di Informatica)*
@@ -36,8 +36,7 @@ Non esistendo una disciplina equivalente a Laboratorio di Informatica nella scuo
 
 Il comma 3, dell'articolo 12, della Legge 4 marzo 1993 n.37 è così modificato:
 
-*
-In via subordinata, qualora ve ne sia la necessità e ove gli ordinamenti didattici lo consentano, l'insegnamento è affidato a personale docente incaricato a norma della legge 17 luglio 1979 n.41 e successive modifiche secondo l'ordine di graduatoria per incarichi e supplenze nella scuola media inferiore. **Gli insegnanti della disciplina Laboratorio di Informatica sono reclutati dalla graduatoria di Scienze e Tecnologie Informatiche nella Scuola Secondaria Superiore ** *
+*In via subordinata, qualora ve ne sia la necessità e ove gli ordinamenti didattici lo consentano, l'insegnamento è affidato a personale docente incaricato a norma della legge 17 luglio 1979 n.41 e successive modifiche secondo l'ordine di graduatoria per incarichi e supplenze nella scuola media inferiore. **Gli insegnanti della disciplina Laboratorio di Informatica sono reclutati dalla graduatoria di Scienze e Tecnologie Informatiche nella Scuola Secondaria Superiore ** *
 
 
 ### Art. 6

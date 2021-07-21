@@ -66,3 +66,19 @@ L'istruzione scolastica si ferma al punto di vista operativo nelle scuole medie,
 La sola conoscenza operativa senza esposizione ai principi scientifici è causa di obsolescenza delle competenze e l'impossibilità di vedere le potenzilità per l'innovazione.
 
 ## Strumenti di indagine e ricerca dell'informatica
+ 
+Il pensiero computazionale ed i suoi strumenti traferibili ad altri ambiti.
+
+####Pensiero algoritmico
+
+####Astrazione
+
+####Decomposizione
+
+####Generalizzazione e modelli
+
+####Valutazione
+
+####Logica
+
+
