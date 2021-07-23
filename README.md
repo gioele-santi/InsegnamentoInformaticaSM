@@ -69,16 +69,16 @@ La sola conoscenza operativa senza esposizione ai principi scientifici è causa 
  
 Il pensiero computazionale ed i suoi strumenti traferibili ad altri ambiti.
 
-####Pensiero algoritmico
+#### Pensiero algoritmico
 
-####Astrazione
+#### Astrazione
 
-####Decomposizione
+#### Decomposizione
 
-####Generalizzazione e modelli
+#### Generalizzazione e modelli
 
-####Valutazione
+#### Valutazione
 
-####Logica
+#### Logica
 
 
