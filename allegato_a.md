@@ -1,5 +1,30 @@
-#Allegato A
-##Conoscenze e abilità attese al termine del percorso 
+# Allegato A
+
+## Programma di insegnamento di informatica
+
+L’insegnamento deve consentire allo studente di acquisire conoscenze e sviluppare abilità che lo mettano in grado di:
+
+- utilizzare gli strumenti informatici e la rete Internet nelle attività di studio, ricerca e approfondimento disciplinare;
+- individuare le strategie più appropriate per la soluzione di problemi;
+- realizzare semplici ma significative applicazioni, utilizzando in modo articolato i costrutti di un
+linguaggio di programmazione di alto livello;
+- analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi, tramite
+l’impiego consapevole degli strumenti di calcolo e delle funzionalità offerte da applicazioni
+informatiche specifiche;
+- comprendere potenzialità e limiti delle tecnologie informatiche nel contesto culturale e sociale
+in cui vengono applicate;
+- utilizzare gli strumenti culturali e metodologici acquisiti per porsi con atteggiamento razionale,
+critico e responsabile di fronte alla realtà, ai suoi fenomeni e ai suoi problemi, anche ai fini
+dell’apprendimento permanente.
+
+I diversi obiettivi di apprendimento si riferiscono ad aspetti fortemente connessi tra loro, che vanno quindi trattati in modo unitario. 
+
+Il rapporto fra teoria e pratica va mantenuto su un piano paritario, sviluppando una didattica laboratoriale, anche in sinergia con le altre discipline, che consenta di focalizzare l’attenzione degli studenti sul problema e di attivare processi in cui le abilità e le conoscenze già possedute vengono approfondite, integrate e sistematizzate.
+
+
+Il collegamento con le altre discipline può consentire significative riflessioni sui fondamenti teorici dell'informatica, sulla sua capacità di influire sui metodi di indagine impiegati dalle altre scienze e tecnologie, nonché sulle problematiche connesse all’attendibilità delle fonti e all’utilizzo delle informazioni ottenute tramite la rete Internet.
+
+## Conoscenze e abilità attese al termine del percorso 
 
 <table>
     <thead>
