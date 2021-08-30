@@ -11,9 +11,9 @@ Considerati i rilevanti benefici, sul piano educativo e formativo, apportati dal
 È istituito l'insegnamento di Scienze e Tecnologie Informatiche nella Scuola Secondaria Superiore.
 L'insegnamento è inserito all'interno del piano di studi 
 
-- del biennio del liceo scientifico, in ragione di due ore alla settimana, sostituendo l'insegnamento sperimentale di informatica, 
-- del primo anno dell'istituto tecnico industriale in ragione di tre ore la settimana, sostituendo l'insegnamento sperimentale di tecnologie informatiche
-- del biennio del liceo economico-aziendale sostituendo l'insegnamento di Tecnologie dell'Informazione e della Comunicazione
+- del biennio del liceo scientifico (2 ore), in ragione di due ore alla settimana, sostituendo l'insegnamento sperimentale di informatica, 
+- del primo anno (3 ore) dell'istituto tecnico industriale in ragione di tre ore la settimana, sostituendo l'insegnamento sperimentale di tecnologie informatiche
+- il primo anno (2 ore) del liceo economico-aziendale sostituendo l'insegnamento di Tecnologie dell'Informazione e della Comunicazione
 
 *(definire le ore settimanali, valutare l'aumento)*
 
